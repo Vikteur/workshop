@@ -3,3 +3,5 @@ blie bla bloe
 nieuwe lijn
 dit is een 3e lijn 
 
+nieuwe 2e lijn
+>>>>>>> 7bf2e9918dbea82f0e7aa6190df1853ec60960de
